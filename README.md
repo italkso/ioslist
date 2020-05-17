@@ -7,3 +7,5 @@
 2. REST Countries：https://restcountries.eu
 
 3. Test your front-end against a real API：https://reqres.in
+
+4. Git 学习：https://learngitbranching.js.org/?locale=zh_CN
