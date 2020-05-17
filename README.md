@@ -17,13 +17,13 @@
 3. Swift Package Manage：集成在 Xcode 中
 
 ## 网站
-1. [JSON 在线编辑器](https://jsoneditoronline.org)
+1. [JSONEditorOnline](https://jsoneditoronline.org)：JSON 在线编辑器
 
 2. [和风天气](https://dev.heweather.com) ：天气API
 
 3. [REST Countries](https://restcountries.eu)：国家 API
 
-4. [REQRES](https://reqres.in)：Test your front-end against a real API
+4. [REQRES](https://reqres.in)：根据真实的API测试前端
 
 5. [Git 学习](https://learngitbranching.js.org/?locale=zh_CN)：[Git](https://git-scm.com)是分布式版本控制系统
 
@@ -34,10 +34,14 @@
 
 2. [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)：JSON 解析 
 
-3. [RxSwift](https://github.com/ReactiveX/RxSwift)：Reactive Programming in Swift
+3. [RxSwift](https://github.com/ReactiveX/RxSwift)：Reactive 的 Swift 版本
 
-4. [SnapKit](https://github.com/SnapKit/SnapKit)：A Swift Autolayout DSL for iOS & OS X（[官网](http://snapkit.io)）
+4. [SnapKit](https://github.com/SnapKit/SnapKit)：适用于iOS和OS X的Swift自动布局DSL（[官网](http://snapkit.io)）
 
-5. [TextFieldEffect](https://github.com/raulriera/TextFieldEffects)
+5. [TextFieldEffect](https://github.com/raulriera/TextFieldEffects)：受Codrops启发的自定义UITextFields效果，使用Swift构建
 
-持续更新，欢迎补充...
+6. [GPUImage2](https://github.com/BradLarson/GPUImage2)：GPUImage 2是遵循BSD许可的Swift框架，用于GPU加速的视频和图像处理
+ 
+7. [Spring](https://github.com/MengTo/Spring)：用于简化 Swift 中的 iOS 动画
+
+持续更新中，欢迎补充...
