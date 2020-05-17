@@ -1,5 +1,5 @@
 # iOSDevelop
-本仓库整理收集 iOS 开发常用的资源、工具和 APIs
+本仓库整理收集 iOS 开发常用的资源、工具和 APIs...
 
 ## 苹果官方
 1. [Swift 社区](https://swift.org)
@@ -34,3 +34,5 @@
 3. [RxSwift](https://github.com/ReactiveX/RxSwift)：Reactive Programming in Swift
 
 4. [SnapKit](https://github.com/SnapKit/SnapKit)：A Swift Autolayout DSL for iOS & OS X（[官网](http://snapkit.io)）
+
+持续更新，欢迎补充...
