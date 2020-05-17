@@ -6,6 +6,9 @@
 
 2. [苹果开发者](https://developer.apple.com/develop/)
 
+## 教程 or 公开课
+1. [可汗学院](https://www.khanacademy.org)
+
 ## 包管理工具
 1. [Cocoa Pods](https://github.com/CocoaPods/CocoaPods)：The Cocoa Dependency Manager([官网](https://cocoapods.org/))
 
@@ -34,5 +37,7 @@
 3. [RxSwift](https://github.com/ReactiveX/RxSwift)：Reactive Programming in Swift
 
 4. [SnapKit](https://github.com/SnapKit/SnapKit)：A Swift Autolayout DSL for iOS & OS X（[官网](http://snapkit.io)）
+
+5. [TextFieldEffect](https://github.com/raulriera/TextFieldEffects)
 
 持续更新，欢迎补充...
