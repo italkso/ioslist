@@ -29,7 +29,7 @@
 
 5. [Git 学习](https://learngitbranching.js.org/?locale=zh_CN)：[Git](https://git-scm.com)是分布式版本控制系统
 
-6. [Flat UI](https://flatuicolors.com)：颜色
+6. [Flat UI](https://flatuicolors.com)：UI配色，精选280种颜色
 
 ## 第三方库
 1. [Alamofire](https://github.com/Alamofire/Alamofire)：HTTP Networking （HTTP 网络）
