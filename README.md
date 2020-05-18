@@ -51,9 +51,12 @@
  
 7. [Spring](https://github.com/MengTo/Spring)：用于简化 Swift 中的 iOS 动画
 
-## 素材
+## 图片素材
 1. [Pixabay](https://pixabay.com)：可商用的免费图库
 
 2. [Pexels](https://www.pexels.com/zh-cn/)：免费图库
+
+## 音乐素材
+1. [soundbible](http://soundbible.com/royalty-free-sounds-1.html)：免费音效
 
 持续更新中，欢迎补充...
