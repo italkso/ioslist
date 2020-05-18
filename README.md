@@ -6,6 +6,11 @@
 
 2. [苹果开发者](https://developer.apple.com/develop/)
 
+## 个人笔记
+   1. [鱼乐自学派](https://yulezixue.com)
+   
+   2. 我的[语雀](https://www.yuque.com/ideal156)
+
 ## 教程 or 公开课
 1. [可汗学院](https://www.khanacademy.org)
 
