@@ -14,7 +14,9 @@
 
 2. [Carthage](https://github.com/Carthage/Carthage)：分布式包管理器
 
-3. Swift Package Manage：集成在 Xcode 中
+3. [Swift Package Manage](https://github.com/apple/swift-package-manager)：Swift编程语言的软件包管理器，集成在 Xcode 中
+
+4. [Homebrew](https://github.com/Homebrew/brew)：适用于macOS（或Linux）的缺少的包管理器 [官网](https://brew.sh)
 
 ## 网站
 1. [JSONEditorOnline](https://jsoneditoronline.org)：JSON 在线编辑器
