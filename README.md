@@ -34,7 +34,7 @@
 
 5. [Git 学习](https://learngitbranching.js.org/?locale=zh_CN)：[Git](https://git-scm.com)是分布式版本控制系统
 
-6. [Flat UI](https://flatuicolors.com)：UI配色，精选280种颜色
+6. [Flat UI Colors](https://flatuicolors.com)：UI 配色，精选280种颜色
 
 ## 第三方库
 1. [Alamofire](https://github.com/Alamofire/Alamofire)：HTTP Networking （HTTP 网络）
@@ -50,5 +50,10 @@
 6. [GPUImage2](https://github.com/BradLarson/GPUImage2)：GPUImage 2是遵循BSD许可的Swift框架，用于GPU加速的视频和图像处理
  
 7. [Spring](https://github.com/MengTo/Spring)：用于简化 Swift 中的 iOS 动画
+
+## 素材
+1. [Pixabay](https://pixabay.com)：可商用的免费图库
+
+2. [Pexels](https://www.pexels.com/zh-cn/)：免费图库
 
 持续更新中，欢迎补充...
