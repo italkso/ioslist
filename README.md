@@ -36,6 +36,8 @@
 
 6. [Flat UI Colors](https://flatuicolors.com)：UI 配色，精选280种颜色
 
+7. [httpbin](https://httpbin.org)：一个简单的 HTTP 请求 & 响应服务
+
 ## 第三方库
 1. [Alamofire](https://github.com/Alamofire/Alamofire)：HTTP Networking （HTTP 网络）
 
