@@ -51,6 +51,8 @@
 
 - [httpbin](https://httpbin.org)：一个简单的 HTTP 请求 & 响应服务
 
+- [endpoints](https://www.endpoints.dev)：向每个用户提供一个独特的 API 终点（endpoint），用于接受 HTTP 请求。
+
 ## UI 相关
 - [Flat UI Colors](https://flatuicolors.com)：UI 配色，精选280种颜色
 
