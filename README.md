@@ -57,7 +57,7 @@
 - [Material Design](https://material.io)：设计系统
 
 ## 图片素材
-- [Visual Hunt](https://visualhunt.com)：搜索免费高质量图片
+- [Visual Hunt](https://visualhunt.com)：搜索免费高质量图片,可按色彩搜索
 
 - [Pixabay](https://pixabay.com)：可商用的免费图库
 
