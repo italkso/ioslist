@@ -2,65 +2,68 @@
 本仓库整理收集 iOS 开发常用的资源、工具和 APIs...
 
 ## 苹果官方
-1. [Swift 社区](https://swift.org)
+- [Swift 社区](https://swift.org)
 
-2. [苹果开发者](https://developer.apple.com/develop/)
+- [苹果开发者](https://developer.apple.com/develop/)
 
 ## 个人笔记
-   1. [鱼乐自学派](https://yulezixue.com)
+- [鱼乐自学派](https://yulezixue.com)
    
-   2. 我的[语雀](https://www.yuque.com/ideal156)
+- 我的[语雀](https://www.yuque.com/ideal156)
 
 ## 教程 or 公开课
-1. [可汗学院](https://www.khanacademy.org)
+- [可汗学院](https://www.khanacademy.org)
 
-2. [Git 学习](https://learngitbranching.js.org/?locale=zh_CN)：[Git](https://git-scm.com)是分布式版本控制系统
+- [Git 学习](https://learngitbranching.js.org/?locale=zh_CN)：[Git](https://git-scm.com)是分布式版本控制系统
 
 ## 包管理工具
-1. [Cocoa Pods](https://github.com/CocoaPods/CocoaPods)：The Cocoa Dependency Manager([官网](https://cocoapods.org/))
+- [Cocoa Pods](https://github.com/CocoaPods/CocoaPods)：The Cocoa Dependency Manager([官网](https://cocoapods.org/))
 
-2. [Carthage](https://github.com/Carthage/Carthage)：分布式包管理器
+- [Carthage](https://github.com/Carthage/Carthage)：分布式包管理器
 
-3. [Swift Package Manage](https://github.com/apple/swift-package-manager)：Swift编程语言的软件包管理器，集成在 Xcode 中
+- [Swift Package Manage](https://github.com/apple/swift-package-manager)：Swift编程语言的软件包管理器，集成在 Xcode 中
 
-4. [Homebrew](https://github.com/Homebrew/brew)：适用于macOS（或Linux）的缺少的包管理器 [官网](https://brew.sh)
+- [Homebrew](https://github.com/Homebrew/brew)：适用于macOS（或Linux）的缺少的包管理器 [官网](https://brew.sh)
 
 ## 第三方库
-1. [Alamofire](https://github.com/Alamofire/Alamofire)：HTTP Networking （HTTP 网络）
+- [Alamofire](https://github.com/Alamofire/Alamofire)：HTTP Networking （HTTP 网络）
 
-2. [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)：JSON 解析 
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)：JSON 解析 
 
-3. [RxSwift](https://github.com/ReactiveX/RxSwift)：Reactive 的 Swift 版本
+- [RxSwift](https://github.com/ReactiveX/RxSwift)：Reactive 的 Swift 版本
 
-4. [SnapKit](https://github.com/SnapKit/SnapKit)：适用于iOS和OS X的Swift自动布局DSL（[官网](http://snapkit.io)）
+- [SnapKit](https://github.com/SnapKit/SnapKit)：适用于iOS和OS X的Swift自动布局DSL（[官网](http://snapkit.io)）
 
-5. [TextFieldEffect](https://github.com/raulriera/TextFieldEffects)：受Codrops启发的自定义UITextFields效果，使用Swift构建
+- [TextFieldEffect](https://github.com/raulriera/TextFieldEffects)：受Codrops启发的自定义UITextFields效果，使用Swift构建
 
-6. [GPUImage2](https://github.com/BradLarson/GPUImage2)：GPUImage 2是遵循BSD许可的Swift框架，用于GPU加速的视频和图像处理
+- [GPUImage2](https://github.com/BradLarson/GPUImage2)：GPUImage 2是遵循BSD许可的Swift框架，用于GPU加速的视频和图像处理
  
-7. [Spring](https://github.com/MengTo/Spring)：用于简化 Swift 中的 iOS 动画
+- [Spring](https://github.com/MengTo/Spring)：用于简化 Swift 中的 iOS 动画
 
 ## API 相关
-1. [JSONEditorOnline](https://jsoneditoronline.org)：JSON 在线编辑器
+- [JSONEditorOnline](https://jsoneditoronline.org)：JSON 在线编辑器
 
-2. [和风天气](https://dev.heweather.com) ：天气API
+- [和风天气](https://dev.heweather.com) ：天气API
 
-3. [REST Countries](https://restcountries.eu)：国家 API
+- [REST Countries](https://restcountries.eu)：国家 API
 
-4. [REQRES](https://reqres.in)：根据真实的API测试前端
+- [REQRES](https://reqres.in)：根据真实的API测试前端
 
-5. [httpbin](https://httpbin.org)：一个简单的 HTTP 请求 & 响应服务
+- [httpbin](https://httpbin.org)：一个简单的 HTTP 请求 & 响应服务
 
 ## UI 相关
-1. [Flat UI Colors](https://flatuicolors.com)：UI 配色，精选280种颜色
-2. [Material Design](https://material.io)：设计系统
+- [Flat UI Colors](https://flatuicolors.com)：UI 配色，精选280种颜色
+
+- [Material Design](https://material.io)：设计系统
 
 ## 图片素材
-1. [Pixabay](https://pixabay.com)：可商用的免费图库
+- [Visual Hunt](https://visualhunt.com)：搜索免费高质量图片
 
-2. [Pexels](https://www.pexels.com/zh-cn/)：免费图库
+- [Pixabay](https://pixabay.com)：可商用的免费图库
+
+- [Pexels](https://www.pexels.com/zh-cn/)：免费图库
 
 ## 音乐素材
-1. [soundbible](http://soundbible.com/royalty-free-sounds-1.html)：免费音效
+- [soundbible](http://soundbible.com/royalty-free-sounds-1.html)：免费音效
 
 持续更新中，欢迎补充...
