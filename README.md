@@ -11,10 +11,12 @@
    
 - 我的[语雀](https://www.yuque.com/ideal156)
 
-## 教程 or 公开课
+## 教程 
 - [可汗学院](https://www.khanacademy.org)
 
 - [Git 学习](https://learngitbranching.js.org/?locale=zh_CN)：[Git](https://git-scm.com)是分布式版本控制系统
+
+- [nshipster](https://nshipster.com): AFNetworking 和 Alamofire 的作者 Mattt 维护的网站，主要关注一些不常用的 iOS 知识点。
 
 ## 包管理工具
 - [Cocoa Pods](https://github.com/CocoaPods/CocoaPods)：The Cocoa Dependency Manager([官网](https://cocoapods.org/))
