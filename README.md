@@ -16,7 +16,7 @@
 
 - [Git 学习](https://learngitbranching.js.org/?locale=zh_CN)：[Git](https://git-scm.com)是分布式版本控制系统
 
-- [nshipster](https://nshipster.com): AFNetworking 和 Alamofire 的作者 Mattt 维护的网站，主要关注一些不常用的 iOS 知识点。
+- [NSHipster](https://nshipster.com): Mattt(AFNetworking 和 Alamofire 的作者)维护的网站，扩展 iOS 知识点。
 
 ## 包管理工具
 - [Cocoa Pods](https://github.com/CocoaPods/CocoaPods)：The Cocoa Dependency Manager([官网](https://cocoapods.org/))
