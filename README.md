@@ -70,4 +70,7 @@
 ## 音乐素材
 - [soundbible](http://soundbible.com/royalty-free-sounds-1.html)：免费音效
 
+## 其他
+- [流程图工具](https://excalidraw.com)：可提供手写效果（英文）
+
 持续更新中，欢迎补充...
