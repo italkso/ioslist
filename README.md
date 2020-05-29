@@ -47,6 +47,8 @@
 
 - [和风天气](https://dev.heweather.com) ：天气API
 
+- [Openweather](https://openweathermap.org)：天气API
+
 - [REST Countries](https://restcountries.eu)：国家 API
 
 - [REQRES](https://reqres.in)：根据真实的API测试前端
