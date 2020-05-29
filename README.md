@@ -18,6 +18,8 @@
 
 - [NSHipster](https://nshipster.com): Mattt(AFNetworking 和 Alamofire 的作者)维护的网站，扩展 iOS 知识点。
 
+- [精通工具](https://missing.csail.mit.edu)：讲解命令行、编辑器、版本控制等实用工具及元编程和密码学知识，有[中文版](https://missing-semester-cn.github.io)。
+
 ## 包管理工具
 - [Cocoa Pods](https://github.com/CocoaPods/CocoaPods)：The Cocoa Dependency Manager([官网](https://cocoapods.org/))
 
