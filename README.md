@@ -62,7 +62,7 @@
 ## UI 相关
 - [Flat UI Colors](https://flatuicolors.com)：UI 配色，精选280种颜色
 
-- [Material Design](https://material.io)：设计系统
+- [Material Design](https://material.io)：设计参考
 
 ## 图片素材
 - [Visual Hunt](https://visualhunt.com)：搜索免费高质量图片,可按色彩搜索
