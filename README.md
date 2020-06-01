@@ -11,6 +11,9 @@
    
 - 我的[语雀](https://www.yuque.com/ideal156)
 
+## 算法相关
+- [VisuAlgo](https://visualgo.net/zh)：算法可视化
+
 ## 教程 
 - [可汗学院](https://www.khanacademy.org)
 
