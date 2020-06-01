@@ -50,17 +50,19 @@
 ## API 相关
 - [JSONEditorOnline](https://jsoneditoronline.org)：JSON 在线编辑器
 
-- [和风天气](https://dev.heweather.com) ：天气API
-
-- [Openweather](https://openweathermap.org)：天气API
-
-- [REST Countries](https://restcountries.eu)：国家 API
-
 - [REQRES](https://reqres.in)：根据真实的API测试前端
 
 - [httpbin](https://httpbin.org)：一个简单的 HTTP 请求 & 响应服务
 
 - [endpoints](https://www.endpoints.dev)：向每个用户提供一个独特的 API 终点（endpoint），用于接受 HTTP 请求。
+
+- [Calendarific](https://calendarific.com)：全球节假日RESTful API
+
+- [和风天气](https://dev.heweather.com) ：天气API
+
+- [Openweather](https://openweathermap.org)：天气API
+
+- [REST Countries](https://restcountries.eu)：国家 API
 
 ## 数据库
 - [MongoDB](https://www.mongodb.com): 基于文档的通用分布式数据库。
