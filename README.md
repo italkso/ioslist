@@ -54,6 +54,8 @@
 
 - [httpbin](https://httpbin.org)：一个简单的 HTTP 请求 & 响应服务
 
+- [RESTED](https://chrome.google.com/webstore/detail/rested/eelcnbccaccipfolokglfhhmapdchbfg)：REST 客户端(Chrome 扩展).
+
 - [endpoints](https://www.endpoints.dev)：向每个用户提供一个独特的 API 终点（endpoint），用于接受 HTTP 请求。
 
 - [Calendarific](https://calendarific.com)：全球节假日RESTful API
