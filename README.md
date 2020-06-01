@@ -9,7 +9,7 @@
 ## 个人笔记
 - [鱼乐自学派](https://yulezixue.com)
    
-- 我的[语雀](https://www.yuque.com/ideal156)
+- [理想东路 156 号](https://www.yuque.com/ideal156)
 
 ## 算法相关
 - [VisuAlgo](https://visualgo.net/zh)：算法可视化
