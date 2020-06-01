@@ -1,5 +1,5 @@
 # iOSDevelop
-本仓库整理收集 iOS 开发常用的资源、工具和 APIs，在开发中遇到的Bug，以及为了学习 iOS 开发编写的Demo。
+本仓库整理收集 iOS 开发常用的资源、工具和 APIs，在开发中遇到的Bug，以及为了学习 iOS 开发编写的 Demo。
 
 ## 苹果官方
 - [Swift 社区](https://swift.org)
@@ -48,6 +48,7 @@
 - [Spring](https://github.com/MengTo/Spring)：用于简化 Swift 中的 iOS 动画
 
 ## API 相关
+- [Free - API](https://github.com/fangzesheng/free-api)：一个GitHub仓库,专门收集免费的接口服务.
 - [JSONEditorOnline](https://jsoneditoronline.org)：JSON 在线编辑器
 
 - [REQRES](https://reqres.in)：根据真实的API测试前端
