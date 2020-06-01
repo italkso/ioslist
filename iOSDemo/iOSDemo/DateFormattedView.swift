@@ -16,7 +16,7 @@ struct DateFormattedView: View {
      var currentTime = Date()
        
        var body: some View {
-               let formattedCurrentTime = getFormattedDate(format: "yyyy-MM-dd HH:mm:ss")
+               let formattedCurrentTime = getFormattedDate(format: "yyyy.MM.dd HH:mm:ss")
            
                return Text("\(formattedCurrentTime)")
                        .padding()

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		932C246F24852B27001E6CE5 /* ListDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932C246E24852B27001E6CE5 /* ListDemoView.swift */; };
 		936EBBAF247041C90036BF6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936EBBAE247041C90036BF6D /* AppDelegate.swift */; };
 		936EBBB1247041C90036BF6D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936EBBB0247041C90036BF6D /* SceneDelegate.swift */; };
 		936EBBB4247041C90036BF6D /* iOSDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 936EBBB2247041C90036BF6D /* iOSDemo.xcdatamodeld */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		932C246E24852B27001E6CE5 /* ListDemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDemoView.swift; sourceTree = "<group>"; };
 		936EBBAB247041C90036BF6D /* iOSDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		936EBBAE247041C90036BF6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		936EBBB0247041C90036BF6D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				936EBBB0247041C90036BF6D /* SceneDelegate.swift */,
 				936EBBB5247041C90036BF6D /* ContentView.swift */,
 				93AB487A24847FC500E30DDD /* DateFormattedView.swift */,
+				932C246E24852B27001E6CE5 /* ListDemoView.swift */,
 				935374132484D62600A227F3 /* LayoutUsingStacks */,
 				936EBBB7247041D10036BF6D /* Assets.xcassets */,
 				936EBBBC247041D10036BF6D /* LaunchScreen.storyboard */,
@@ -167,6 +170,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93AB487B24847FC500E30DDD /* DateFormattedView.swift in Sources */,
+				932C246F24852B27001E6CE5 /* ListDemoView.swift in Sources */,
 				936EBBAF247041C90036BF6D /* AppDelegate.swift in Sources */,
 				93AB48852484D10F00E30DDD /* InfoAboutLiBai.swift in Sources */,
 				93AB48832484D0CD00E30DDD /* TextImageStackView.swift in Sources */,
