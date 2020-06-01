@@ -1,5 +1,5 @@
 # iOSDevelop
-本仓库整理收集 iOS 开发常用的资源、工具和 APIs...开发中遇到的问题，以及一些简单示例的 Demo。
+本仓库整理收集 iOS 开发常用的资源、工具和 APIs，在开发中遇到的Bug，以及为了学习 iOS 开发编写的Demo。
 
 ## 苹果官方
 - [Swift 社区](https://swift.org)
