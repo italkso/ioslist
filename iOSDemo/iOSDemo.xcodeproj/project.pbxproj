@@ -14,6 +14,7 @@
 		936EBBB8247041D10036BF6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 936EBBB7247041D10036BF6D /* Assets.xcassets */; };
 		936EBBBB247041D10036BF6D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 936EBBBA247041D10036BF6D /* Preview Assets.xcassets */; };
 		936EBBBE247041D10036BF6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 936EBBBC247041D10036BF6D /* LaunchScreen.storyboard */; };
+		93AB487B24847FC500E30DDD /* DateFormattedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AB487A24847FC500E30DDD /* DateFormattedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		936EBBBA247041D10036BF6D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		936EBBBD247041D10036BF6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		936EBBBF247041D10036BF6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93AB487A24847FC500E30DDD /* DateFormattedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormattedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				936EBBAE247041C90036BF6D /* AppDelegate.swift */,
 				936EBBB0247041C90036BF6D /* SceneDelegate.swift */,
 				936EBBB5247041C90036BF6D /* ContentView.swift */,
+				93AB487A24847FC500E30DDD /* DateFormattedView.swift */,
 				936EBBB7247041D10036BF6D /* Assets.xcassets */,
 				936EBBBC247041D10036BF6D /* LaunchScreen.storyboard */,
 				936EBBBF247041D10036BF6D /* Info.plist */,
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93AB487B24847FC500E30DDD /* DateFormattedView.swift in Sources */,
 				936EBBAF247041C90036BF6D /* AppDelegate.swift in Sources */,
 				936EBBB1247041C90036BF6D /* SceneDelegate.swift in Sources */,
 				936EBBB6247041C90036BF6D /* ContentView.swift in Sources */,
