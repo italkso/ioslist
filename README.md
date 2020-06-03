@@ -61,6 +61,8 @@
 
 - [endpoints](https://www.endpoints.dev)：向每个用户提供一个独特的 API 终点（endpoint），用于接受 HTTP 请求。
 
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com)：Fake Online REST API for Testing and Prototyping
+
 - [Calendarific](https://calendarific.com)：全球节假日RESTful API
 
 - [和风天气](https://dev.heweather.com) ：天气API
@@ -76,6 +78,10 @@
 - [Flat UI Colors](https://flatuicolors.com)：UI 配色，精选280种颜色
 
 - [Material Design](https://material.io)：设计参考
+
+- [SFSymbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/)：系统图标，苹果官方。
+
+- [SFSymbols](https://sfsymbols.com)：图标，非苹果官方。
 
 ## 图片素材
 - [Visual Hunt](https://visualhunt.com)：搜索免费高质量图片,可按色彩搜索
