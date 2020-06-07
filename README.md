@@ -75,9 +75,11 @@
 - [MongoDB](https://www.mongodb.com): 基于文档的通用分布式数据库。
 
 ## UI 相关
-- [Flat UI Colors](https://flatuicolors.com)：UI 配色，精选280种颜色
-
 - [Material Design](https://material.io)：设计参考
+
+- [Coolors](https://coolors.co)：UI 配色，超级快速的颜色方案生成器
+
+- [Flat UI Colors](https://flatuicolors.com)：UI 配色，精选280种颜色
 
 - [SFSymbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/)：系统图标，苹果官方。
 

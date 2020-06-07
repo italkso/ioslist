@@ -19,6 +19,7 @@
 		93AB487B24847FC500E30DDD /* DateFormattedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AB487A24847FC500E30DDD /* DateFormattedView.swift */; };
 		93AB48832484D0CD00E30DDD /* TextImageStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AB48822484D0CD00E30DDD /* TextImageStackView.swift */; };
 		93AB48852484D10F00E30DDD /* InfoAboutLiBai.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AB48842484D10F00E30DDD /* InfoAboutLiBai.swift */; };
+		93CEC228248CD6B400695452 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93CEC227248CD6B400695452 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		93AB487A24847FC500E30DDD /* DateFormattedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormattedView.swift; sourceTree = "<group>"; };
 		93AB48822484D0CD00E30DDD /* TextImageStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextImageStackView.swift; sourceTree = "<group>"; };
 		93AB48842484D10F00E30DDD /* InfoAboutLiBai.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoAboutLiBai.swift; sourceTree = "<group>"; };
+		93CEC227248CD6B400695452 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				93AB487A24847FC500E30DDD /* DateFormattedView.swift */,
 				932C246E24852B27001E6CE5 /* ListDemoView.swift */,
 				931080DB2488B5D0000312E9 /* ChangeFontSizeAndColor.swift */,
+				93CEC227248CD6B400695452 /* MapView.swift */,
 				935374132484D62600A227F3 /* LayoutUsingStacks */,
 				936EBBB7247041D10036BF6D /* Assets.xcassets */,
 				936EBBBC247041D10036BF6D /* LaunchScreen.storyboard */,
@@ -179,6 +182,7 @@
 				931080DC2488B5D0000312E9 /* ChangeFontSizeAndColor.swift in Sources */,
 				93AB48832484D0CD00E30DDD /* TextImageStackView.swift in Sources */,
 				936EBBB1247041C90036BF6D /* SceneDelegate.swift in Sources */,
+				93CEC228248CD6B400695452 /* MapView.swift in Sources */,
 				936EBBB6247041C90036BF6D /* ContentView.swift in Sources */,
 				936EBBB4247041C90036BF6D /* iOSDemo.xcdatamodeld in Sources */,
 			);
