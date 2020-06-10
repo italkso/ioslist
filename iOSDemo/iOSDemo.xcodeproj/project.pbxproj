@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		931080DC2488B5D0000312E9 /* ChangeFontSizeAndColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931080DB2488B5D0000312E9 /* ChangeFontSizeAndColor.swift */; };
+		931EF08224911B9500BDD568 /* MVVMDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931EF08124911B9500BDD568 /* MVVMDemo.swift */; };
 		932C246F24852B27001E6CE5 /* ListDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932C246E24852B27001E6CE5 /* ListDemoView.swift */; };
 		936EBBAF247041C90036BF6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936EBBAE247041C90036BF6D /* AppDelegate.swift */; };
 		936EBBB1247041C90036BF6D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936EBBB0247041C90036BF6D /* SceneDelegate.swift */; };
@@ -25,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		931080DB2488B5D0000312E9 /* ChangeFontSizeAndColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeFontSizeAndColor.swift; sourceTree = "<group>"; };
+		931EF08124911B9500BDD568 /* MVVMDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMDemo.swift; sourceTree = "<group>"; };
 		932C246E24852B27001E6CE5 /* ListDemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDemoView.swift; sourceTree = "<group>"; };
 		936EBBAB247041C90036BF6D /* iOSDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		936EBBAE247041C90036BF6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -53,6 +55,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		931EF08324911B9C00BDD568 /* MVVM */ = {
+			isa = PBXGroup;
+			children = (
+				931EF08124911B9500BDD568 /* MVVMDemo.swift */,
+			);
+			path = MVVM;
+			sourceTree = "<group>";
+		};
 		935374132484D62600A227F3 /* LayoutUsingStacks */ = {
 			isa = PBXGroup;
 			children = (
@@ -89,6 +99,7 @@
 				931080DB2488B5D0000312E9 /* ChangeFontSizeAndColor.swift */,
 				93CEC227248CD6B400695452 /* MapView.swift */,
 				93C070D6248E291D003A1DFD /* Timer15.swift */,
+				931EF08324911B9C00BDD568 /* MVVM */,
 				935374132484D62600A227F3 /* LayoutUsingStacks */,
 				936EBBB7247041D10036BF6D /* Assets.xcassets */,
 				936EBBBC247041D10036BF6D /* LaunchScreen.storyboard */,
@@ -182,6 +193,7 @@
 				932C246F24852B27001E6CE5 /* ListDemoView.swift in Sources */,
 				936EBBAF247041C90036BF6D /* AppDelegate.swift in Sources */,
 				93AB48852484D10F00E30DDD /* InfoAboutLiBai.swift in Sources */,
+				931EF08224911B9500BDD568 /* MVVMDemo.swift in Sources */,
 				931080DC2488B5D0000312E9 /* ChangeFontSizeAndColor.swift in Sources */,
 				93C070D7248E291D003A1DFD /* Timer15.swift in Sources */,
 				93AB48832484D0CD00E30DDD /* TextImageStackView.swift in Sources */,

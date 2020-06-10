@@ -15,6 +15,8 @@
 - [VisuAlgo](https://visualgo.net/zh)：算法可视化
 
 ## 教程 
+- [斯坦福大学 CS193p](https://cs193p.sites.stanford.edu) ：Developing Applications for iOS using SwiftUI，视频地址[Stanford](https://www.youtube.com/watch?v=4GjXq2Sr55Q).
+
 - [可汗学院](https://www.khanacademy.org)
 
 - [Git 学习](https://learngitbranching.js.org/?locale=zh_CN)：[Git](https://git-scm.com)是分布式版本控制系统
