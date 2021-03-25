@@ -15,15 +15,15 @@ Books, links, APIs and Demos for ios developers.
 - [VisuAlgo](https://visualgo.net/zh)
 
 ## Courses 
-- [CS193p](https://cs193p.sites.stanford.edu) ：Developing Applications for iOS using SwiftUI，Video [Stanford](https://www.youtube.com/watch?v=4GjXq2Sr55Q).
+- [CS193p](https://cs193p.sites.stanford.edu)(Video [Stanford](https://www.youtube.com/watch?v=4GjXq2Sr55Q))
 
 - [Khan Academy](https://www.khanacademy.org)
 
-- [Git](https://learngitbranching.js.org/?locale=zh_CN)：[Git](https://git-scm.com)是分布式版本控制系统
+- [Git](https://git-scm.com)
 
-- [NSHipster](https://nshipster.com): Mattt(AFNetworking 和 Alamofire 的作者)维护的网站，扩展 iOS 知识点。
+- [NSHipster](https://nshipster.com)
 
-- [Missing Semester](https://missing.csail.mit.edu)：讲解命令行、编辑器、版本控制等实用工具及元编程和密码学知识，有[中文版](https://missing-semester-cn.github.io)。
+- [Missing Semester](https://missing.csail.mit.edu)
 
 ## Dependency Manager
 - [Cocoa Pods](https://cocoapods.org/)
