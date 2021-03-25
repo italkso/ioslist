@@ -8,13 +8,11 @@ Books, links, APIs and Demos for ios developers.
 
 ## Notes
 - [Italkso](https://italkso,github.io)
-   
+  
 - [ideal156](https://www.yuque.com/ideal156)
 
-## Algorithm
-- [VisuAlgo](https://visualgo.net/zh)
+## Courses
 
-## Courses 
 - [CS193p](https://cs193p.sites.stanford.edu)(Video [Stanford](https://www.youtube.com/watch?v=4GjXq2Sr55Q))
 
 - [Khan Academy](https://www.khanacademy.org)
@@ -46,7 +44,7 @@ Books, links, APIs and Demos for ios developers.
 - [TextFieldEffect](https://github.com/raulriera/TextFieldEffects)
 
 - [GPUImage2](https://github.com/BradLarson/GPUImage2)
- 
+
 - [Spring](https://github.com/MengTo/Spring)
 
 ## APIs

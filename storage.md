@@ -1,0 +1,1 @@
+NSUserDefault、KeyChain、File（plist、Archiver、Stream）、DB（Core Data、FMDB）
