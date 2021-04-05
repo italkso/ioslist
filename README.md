@@ -2,7 +2,7 @@
 Books, links, APIs and demos for ios developers. 
 
 ## Notes
-- [Italkso](https://italkso,github.io)
+- [Italkso](https://italkso.github.io)
   
 - [ideal156](https://www.yuque.com/ideal156)
 
