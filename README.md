@@ -1,10 +1,6 @@
 # iOS Development
-Books, links, APIs and demos for ios developers. 
+A list which include links & courses & tools for ios developers. 
 
-## Notes
-- [Italkso](https://italkso.github.io)
-  
-- [ideal156](https://www.yuque.com/ideal156)
 
 ## Docs & Courses
 
